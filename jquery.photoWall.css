@@ -1,0 +1,10 @@
+.photowall { position:relative; width:1270px; height:100%; margin:0 auto; }
+.pw-slide { position:relative; float:left; margin:5px; cursor:pointer; }
+.pw-slide .pw-image { max-height:200px; }
+.pw-slide .pw-image-desc { display:none; }
+.pw-previewer { position:relative; float:left; width:1258px; margin:0 5px; padding:50px 0; color:#EEE; background:#333; }
+.pw-previewer.hide { display:none; }
+.pw-previewer .pw-previewer-close { position:absolute; right:23px; top:10px; font-size:40px; font-family:Verdana, Arial, sans-serif; color:#000; }
+.pw-previewer .pw-previewer-close:hover { cursor:pointer; color:#555; }
+.pw-previewer .pw-image { float:left; max-width:500px; margin:0px 0 0 100px; }
+.pw-previewer > div { float:right; width:400px; margin:25px 200px 0 0; }

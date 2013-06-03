@@ -1,0 +1,29 @@
+{
+    "name": "photowall",
+    "title": "photoWall.js",
+    "description": "A lightweight Google-esque jQuery plugin for displaying photos.",
+    "keywords": [
+        "photos",
+        "wall",
+        "display"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Jeremy JC Paul",
+        "email": "jeremy@jeremyjcpaul.com",
+        "url": "https://jeremyjcpaul.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jeremyjcpaul/photoWall.js/blob/master/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/jeremyjcpaul/photowall/issues",
+    "homepage": "http://jeremyjcpaul.com/photo-wall.php",
+    "docs": "http://jeremyjcpaul.com/photo-wall.php",
+    "download": "https://github.com/jeremyjcpaul/photowall",
+    "dependencies": {
+        "jquery": ">=1.6.4"
+    }
+}
