@@ -2,6 +2,8 @@
 
 *A lightweight Google-esque jQuery plugin for displaying photos*
 
+**Current version: 2.1.2** - [(Demo)](http://jeremyjcpaul.com/photo-wall-demo.php)
+
 ##Basic Usage
 
 1. Upload the PhotoWall folder to your server and link the required files into your page (usually in the head section). For best results use the minified version of the javascript as it is faster for browsers to load.
