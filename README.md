@@ -2,7 +2,7 @@
 
 *A lightweight Google-esque jQuery plugin for displaying photos*
 
-**Current version: 2.1.2** - [(Demo)](http://jeremyjcpaul.com/photo-wall-demo.php)
+**Current version: 0.1.0** - [(Demo)](http://jeremyjcpaul.com/photo-wall-demo.php)
 
 ##Basic Usage
 
